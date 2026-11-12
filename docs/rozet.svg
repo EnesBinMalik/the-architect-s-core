@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="The Architect&#x27;s Core rozeti">
 <style>.t{font-family:'Segoe UI',system-ui,sans-serif}.ttl{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:-1.5px}.m{font-family:'Consolas',monospace}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:4px}.ser{font-family:Georgia,serif;font-style:italic}</style>
 <defs>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
-<radialGradient id="gl" cx="0.5" cy="0.42" r="0.55"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFD166"/></linearGradient>
+<radialGradient id="gl" cx="0.5" cy="0.42" r="0.55"><stop offset="0" stop-color="#FF4D6D" stop-opacity="0.22"/><stop offset="1" stop-color="#FF4D6D" stop-opacity="0"/></radialGradient>
 </defs>
 <rect width="600" height="600" fill="#05070C"/>
 <rect width="600" height="600" fill="url(#gl)"/>
-<ellipse cx="300.0" cy="300.0" rx="270" ry="112" fill="none" stroke="#818CF8" stroke-opacity="0.30" stroke-width="1.6" transform="rotate(-22 300.0 300.0)"/>
-<ellipse cx="300.0" cy="300.0" rx="270" ry="112" fill="none" stroke="#22D3EE" stroke-opacity="0.16" stroke-width="1.6" transform="rotate(22 300.0 300.0)"/>
-<circle cx="537.4" cy="342.0" r="4.5" fill="#22D3EE"/>
+<ellipse cx="300.0" cy="300.0" rx="270" ry="112" fill="none" stroke="#FFD166" stroke-opacity="0.30" stroke-width="1.6" transform="rotate(-22 300.0 300.0)"/>
+<ellipse cx="300.0" cy="300.0" rx="270" ry="112" fill="none" stroke="#FF4D6D" stroke-opacity="0.16" stroke-width="1.6" transform="rotate(22 300.0 300.0)"/>
+<circle cx="537.4" cy="342.0" r="4.5" fill="#FF4D6D"/>
 <polygon points="486.2,192.5 486.2,407.5 300.0,515.0 113.8,407.5 113.8,192.5 300.0,85.0" fill="#080E18" stroke="url(#ac)" stroke-width="3.2"/>
 <polygon points="486.2,192.5 486.2,407.5 300.0,515.0 113.8,407.5 113.8,192.5 300.0,85.0" fill="none" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="1" transform="scale(0.89) translate(33.0 33.0)"/>
-<text x="300.0" y="204.0" text-anchor="middle" class="cap" font-size="10" fill="#818CF8">ENES ÖZTÜRK</text>
+<text x="300.0" y="204.0" text-anchor="middle" class="cap" font-size="10" fill="#FFD166">ENES ÖZTÜRK</text>
 <text x="300.0" y="306.0" text-anchor="middle" class="ttl" font-size="72" fill="url(#ac)">AC</text>
 <line x1="220.0" y1="334.0" x2="380.0" y2="334.0" stroke="url(#ac)" stroke-width="2"/>
 <text x="300.0" y="366.0" text-anchor="middle" class="cap" font-size="10.5" fill="#93A6BE">GÖZ BEBEĞİ PROJESİ</text>
