@@ -1,0 +1,6 @@
+{
+  "name": "The Architect's Core",
+  "description": "Enes Öztürk imzalı 3D birinci şahıs siber-mühendislik, gerçek zamanlı makine dili derleme ve donanım hackleme oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

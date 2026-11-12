@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="The Architect&#x27;s Core">
+<style>.t{font-family:'Segoe UI',system-ui,sans-serif}.ttl{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:-1.5px}.m{font-family:'Consolas',monospace}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:4px}.ser{font-family:Georgia,serif;font-style:italic}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070C"/><stop offset="0.6" stop-color="#080D15"/><stop offset="1" stop-color="#0A1220"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+<radialGradient id="gl" cx="0.78" cy="0.24" r="0.72"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.20"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="gl2" cx="0.12" cy="0.9" r="0.5"><stop offset="0" stop-color="#818CF8" stop-opacity="0.10"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<rect width="1280" height="640" fill="url(#gl)"/>
+<rect width="1280" height="640" fill="url(#gl2)"/>
+<path d="M0 80 H384.0 L486.4 104 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="104" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<path d="M0 138 H384.0 L486.4 162 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="162" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<path d="M0 196 H384.0 L486.4 220 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="220" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<path d="M0 254 H384.0 L486.4 278 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="278" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<path d="M0 312 H384.0 L486.4 336 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="336" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<path d="M0 370 H384.0 L486.4 394 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="394" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<path d="M0 428 H384.0 L486.4 452 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="452" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<path d="M0 486 H384.0 L486.4 510 H742.4" fill="none" stroke="#818CF8" stroke-opacity="0.11" stroke-width="1.5"/>
+<circle cx="742.4" cy="510" r="3.2" fill="#22D3EE" fill-opacity="0.3"/>
+<rect x="860" y="440" width="46" height="46" rx="6" fill="none" stroke="#22D3EE" stroke-opacity="0.09"/>
+<rect x="924" y="440" width="46" height="46" rx="6" fill="none" stroke="#22D3EE" stroke-opacity="0.09"/>
+<rect x="988" y="440" width="46" height="46" rx="6" fill="none" stroke="#22D3EE" stroke-opacity="0.09"/>
+<rect x="1052" y="440" width="46" height="46" rx="6" fill="none" stroke="#22D3EE" stroke-opacity="0.09"/>
+<rect x="1116" y="440" width="46" height="46" rx="6" fill="none" stroke="#22D3EE" stroke-opacity="0.09"/>
+<rect x="1180" y="440" width="46" height="46" rx="6" fill="none" stroke="#22D3EE" stroke-opacity="0.09"/>
+<rect x="0" y="0" width="1280" height="4" fill="url(#ac)"/>
+<rect x="56" y="42" width="132" height="26" rx="13" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-opacity="0.5"/>
+<text x="122" y="59" text-anchor="middle" class="cap" font-size="9.5" fill="#22D3EE">GÖZ BEBEĞİ</text>
+<text x="204" y="59" class="cap" font-size="10.5" fill="#818CF8">SİBER-MÜHENDİSLİK · 3D</text>
+<text x="1224" y="59" text-anchor="end" class="m" font-size="11" fill="#48566B">A1 · Enes Öztürk</text>
+<line x1="56" y1="86" x2="1224" y2="86" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="54" y="204" class="ttl" font-size="70" fill="#F5F8FC">The Architect&#x27;s Core</text>
+<rect x="58" y="232" width="96" height="3" rx="1.5" fill="url(#ac)"/>
+<text x="58" y="276" class="ser" font-size="19" fill="#9FB2CA">Birinci şahıs donanım hackleme · gerçek zamanlı makine dili derleme</text>
+<rect x="58" y="325" width="14" height="2.5" rx="1.25" fill="#22D3EE"/>
+<text x="84" y="336" class="t" font-size="14.5" fill="#A9BACE">JIT derleyici ile canlı assembly çalıştırma</text>
+<rect x="58" y="367" width="14" height="2.5" rx="1.25" fill="#22D3EE"/>
+<text x="84" y="378" class="t" font-size="14.5" fill="#A9BACE">3D nano-dünya içinde devre ve bellek gezintisi</text>
+<rect x="58" y="409" width="14" height="2.5" rx="1.25" fill="#22D3EE"/>
+<text x="84" y="420" class="t" font-size="14.5" fill="#A9BACE">Bitwise konsol, bellek denetçisi ve siber vizör HUD</text>
+<rect x="690" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="690" y="316" width="162" height="3" rx="1.5" fill="#22D3EE" fill-opacity="0.75"/>
+<text x="708" y="360" class="t" font-size="24" font-weight="700" fill="#22D3EE">x86-64</text>
+<text x="708" y="386" class="m" font-size="10.5" fill="#7E8FA8">mimari</text>
+<rect x="868" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="868" y="316" width="162" height="3" rx="1.5" fill="#818CF8" fill-opacity="0.75"/>
+<text x="886" y="360" class="t" font-size="24" font-weight="700" fill="#818CF8">JIT</text>
+<text x="886" y="386" class="m" font-size="10.5" fill="#7E8FA8">derleyici</text>
+<rect x="1046" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="1046" y="316" width="162" height="3" rx="1.5" fill="#818CF8" fill-opacity="0.75"/>
+<text x="1064" y="360" class="t" font-size="24" font-weight="700" fill="#818CF8">3D</text>
+<text x="1064" y="386" class="m" font-size="10.5" fill="#7E8FA8">sahne</text>
+<line x1="56" y1="536" x2="1224" y2="536" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="56" y="574" class="t" font-size="19" font-weight="600" fill="#EDF3FA">Enes Öztürk</text>
+<text x="56" y="600" class="m" font-size="11.5" fill="#5A6B88">github.com/EnesBinMalik · MIT Lisansı</text>
+<text x="1224" y="574" text-anchor="end" class="m" font-size="10.5" fill="#818CF8">© 2026 Enes Öztürk — tüm hakları saklıdır</text>
+<text x="1224" y="600" text-anchor="end" class="m" font-size="10.5" fill="#3F4C60">tasarım &amp; geliştirme · Enes Öztürk</text>
+</svg>
